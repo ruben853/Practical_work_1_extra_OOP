@@ -1,0 +1,15 @@
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\bin\Debug\net6.0\practicaExtraRuben.exe
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\bin\Debug\net6.0\practicaExtraRuben.deps.json
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\bin\Debug\net6.0\practicaExtraRuben.runtimeconfig.json
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\bin\Debug\net6.0\practicaExtraRuben.dll
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\bin\Debug\net6.0\practicaExtraRuben.pdb
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\practicaExtraRuben.csproj.AssemblyReference.cache
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\practicaExtraRuben.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\practicaExtraRuben.AssemblyInfoInputs.cache
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\practicaExtraRuben.AssemblyInfo.cs
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\practicaExtraRuben.csproj.CoreCompileInputs.cache
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\practicaExtraRuben.dll
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\refint\practicaExtraRuben.dll
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\practicaExtraRuben.pdb
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\practicaExtraRuben.genruntimeconfig.cache
+C:\Users\rubit\OneDrive - UFV\2o\2o cuatri\Programacion Objetos\practicaExtraRuben\obj\Debug\net6.0\ref\practicaExtraRuben.dll
